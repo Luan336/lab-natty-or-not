@@ -1,0 +1,26 @@
+Criação de Imagens a partir de texto
+
+📒 Descrição
+Este  projeto é uma criação de imagens a partir de pesquisa sobre Grandes modelos de Linguagem.
+🤖 Tecnologias Utilizadas
+Foi utlizado o ChatGPT para peesquisa e criação de código para imagens;
+O GEMINE foi utlizado para executar o código criando imagens;
+
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para minha pesquisa sobre Grandes Modelos de Linguagem e criar um código para geração de imagens. Por outro lado, o "Gemini" foi usado para gerar imagens exclusivas do conteúdo.
+
+
+🚀 Resultados
+Resultou no seguinte prompt: 
+"Uma ilustração futurista de um modelo de linguagem treinando em um grande conjunto de dados digitais.",
+"Um assistente virtual AI respondendo perguntas em um chat, com interface moderna e futurista.",
+"Um cientista de IA ajustando um modelo de linguagem em um laboratório de tecnologia."
+
+O prompt gerou a seguinte imagem:
+![image](https://github.com/user-attachments/assets/2380a577-63b8-41ff-9b70-e441f1e67427)
+![image](https://github.com/user-attachments/assets/efa8b59a-0328-4d83-88db-74926f785488)
+![image](https://github.com/user-attachments/assets/e2fa7f32-0460-473f-b25d-99f1509d23f9)
+
+
+💭 Reflexão
+Criar imagens a partir de pesquisa foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
